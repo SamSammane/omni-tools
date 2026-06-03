@@ -39,9 +39,31 @@
     "title": "Images to PDF"
   },
   "editor": {
-    "description": "Advanced PDF editor with annotation, form-fill, highlight, and export capabilities. Edit your PDFs directly in the browser with professional-grade tools including text insertion, drawing, highlighting, signing and form filling.",
-    "shortDescription": "Edit PDFs with advanced annotation, signing and editing tools",
-    "title": "PDF Editor"
+    "deleteBox": "Delete",
+    "description": "Add inline text boxes on PDF pages and export an updated PDF. All processing runs in your browser.",
+    "done": "Done",
+    "editBox": "Edit",
+    "hint": "Draw a box over text: original PDF wording appears in the box. Edit it, press Enter to place it on the page. Shift+Enter for a new line. Ctrl+Z / Ctrl+Y undo and redo. Save downloads the PDF.",
+    "originalPdfText": "Original PDF text",
+    "placeholder": "Type here…",
+    "loadingPdf": "Loading PDF…",
+    "renderingPage": "Rendering page…",
+    "redo": "Redo",
+    "undo": "Undo",
+    "inputTitle": "Input PDF",
+    "pageIndicator": "Page {{current}} / {{total}}",
+    "resultTitle": "Edited PDF",
+    "savePdf": "Save PDF",
+    "shortDescription": "Add text to PDFs and download the edited file",
+    "textColor": "Text color",
+    "title": "PDF Editor",
+    "toolInfoDescription": "Click or drag over existing text to pull it into an editable box. Change the wording, press Enter to render it on the page, and use undo anytime before saving the file.",
+    "toolInfoTitle": "Edit PDF text on the page",
+    "tools": {
+      "select": "Select text boxes",
+      "text": "Add text"
+    },
+    "uploadHint": "Upload a PDF to start editing."
   },
   "merge": {
     "inputTitle": "Input PDF",
